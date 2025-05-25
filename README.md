@@ -9,7 +9,7 @@ Hi, I’m **Eric Graham** — a Fullstack Software Engineer, artist, and passion
 - 😄 Pronouns: He/Him
 
 Feel free to connect with me!<br>
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ericgraham1)
 
 My Technologies:<br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
